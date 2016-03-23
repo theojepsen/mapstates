@@ -1,0 +1,23 @@
+{
+  "name": "mapstates",
+  "version": "0.0.1",
+  "description": "Unusual maps",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theojepsen/mapstates.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theojepsen/mapstates/issues"
+  },
+  "homepage": "https://github.com/theojepsen/mapstates#readme",
+  "dependencies": {
+    "json2csv": "^3.2.0",
+    "split": "^1.0.0"
+  }
+}
